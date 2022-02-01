@@ -1,9 +1,7 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
 h1
-{color: brown;}
-p{color:palevioletred; background: cyan;}
-ul
-{background: purple;}
-ol
-{background: red;}
-q
-{color: rgb(12, 10, 10);}
+{color: brown;
+font-weight: 900;}
+
